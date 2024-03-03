@@ -1,4 +1,4 @@
-# PostgreSQLCardManager-By Miquel
+# PostgreSQLCardManager - By Miquel
 
 This Java project manages Clash cards using a PostgreSQL database. It provides functionalities for listing cards, adding new cards, modifying existing cards, and deleting cards.
 
